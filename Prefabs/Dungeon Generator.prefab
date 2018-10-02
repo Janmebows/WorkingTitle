@@ -51,3 +51,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc4d72ac7b7dc3d4fa1ed49d7fe2b48e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  wallPercent: 45
+  dungeonWidth: 100
+  dungeonHeight: 36
+  tileSize: 5
+  seed: 
+  randomSeed: 1
+  numSmoothingIterations: 1
+  smoothStrength: 4
