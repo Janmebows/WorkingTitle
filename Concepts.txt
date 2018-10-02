@@ -1,0 +1,56 @@
+Procedural Roguelike (duh)
+
+Main Thoughts:
+
+Procedural dungeons
+Procedural main map (possibly save a particular one and keep it as is)
+
+Main Map:
+wandering enemies - on touch start combat (go to new screen)
+wandering caravans
+dungeons randomly spread - 
+
+
+Dungeons:
+some goal in each dungeon (collect __, kill __, save __, retrieve ___, deliver ___, etc.)
+quests?
+dungeons move (destroy and replace at a new tile) on completion
+
+Towns?:
+caravans and NPCs give quests
+standing with people/towns/caravans (not sure how specific to be)
+if by towns - size of town effects impact of morality 
+(smaller town - bad decisions make people angrier faster)
+
+
+Quests:
+"Do [THING], at [PLACE] in [DURATION?]"
+thing - quest type + quest objective 
+place - dungeon/part of world map 
+
+Gameplay:
+
+
+
+Grinding:
+there is ALWAYS better gear. ALWAYS.
+
+
+RPG elements:
+Stats
+Gear
+
+
+
+Combat:
+elona-esque
+melee + range + magic + throwing
+we want throwing to be busted af (possibly ludicrously small chance of decap)
+
+
+CONTROLS (fuck that):
+options are pretty much:
+dpad 
+best atm - touch in direction of movement
+drag
+tap destination
